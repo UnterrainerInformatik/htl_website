@@ -11,6 +11,8 @@ Zuerst musst Du `node` installieren.
 <br>
 Danach das Projekt in VS-Code öffnen (Ordner öffnen), ein Terminal öffnen (Terminal -> neu) und
 ```bash
+npm install @vue/cli
+
 npm run serve
 ```
 tippen, um die Seite zu starten.

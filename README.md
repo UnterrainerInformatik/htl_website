@@ -1,4 +1,4 @@
-# htl_websiter
+# htl_website
 
 Dies ist eine fast leere Installation von Vue2 mit Vuetify2.
 <br>

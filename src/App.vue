@@ -65,7 +65,7 @@
           <Pupils
             :pupils="[
               { name: 'Ostermann Malte', text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non pellentesque nunc. Curabitur convallis sodales tempor. Donec a laoreet nulla. Aliquam egestas ex at porta molestie. Cras ac consectetur nulla. Duis nulla neque, porttitor quis hendrerit at, consequat semper nisi. Cras vel metus condimentum, varius nisi vel, eleifend libero. Class.' },
-              { name: 'Salzinger Niklas', text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non pellentesque nunc. Curabitur convallis sodales tempor. Donec a laoreet nulla. Aliquam egestas ex at porta molestie. Cras ac consectetur nulla. Duis nulla neque, porttitor quis hendrerit at, consequat semper nisi. Cras vel metus condimentum, varius nisi vel, eleifend libero. Class.' }
+              { name: 'Satzinger Niklas', text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non pellentesque nunc. Curabitur convallis sodales tempor. Donec a laoreet nulla. Aliquam egestas ex at porta molestie. Cras ac consectetur nulla. Duis nulla neque, porttitor quis hendrerit at, consequat semper nisi. Cras vel metus condimentum, varius nisi vel, eleifend libero. Class.' }
             ]"
           />
         </v-tab-item>

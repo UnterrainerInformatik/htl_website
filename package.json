@@ -44,5 +44,17 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "Dies ist eine fast leere Installation von Vue2 mit Vuetify2.\r <br>",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skywocoder/htl_website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skywocoder/htl_website/issues"
+  },
+  "homepage": "https://github.com/Skywocoder/htl_website#readme"
 }

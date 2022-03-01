@@ -64,13 +64,17 @@
         <v-tab-item>
           <Pupils
             :pupils="[
-              { name: 'Ostermann Malte', text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non pellentesque nunc. Curabitur convallis sodales tempor. Donec a laoreet nulla. Aliquam egestas ex at porta molestie. Cras ac consectetur nulla. Duis nulla neque, porttitor quis hendrerit at, consequat semper nisi. Cras vel metus condimentum, varius nisi vel, eleifend libero. Class.' },
-              { name: 'Satzinger Niklas', text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non pellentesque nunc. Curabitur convallis sodales tempor. Donec a laoreet nulla. Aliquam egestas ex at porta molestie. Cras ac consectetur nulla. Duis nulla neque, porttitor quis hendrerit at, consequat semper nisi. Cras vel metus condimentum, varius nisi vel, eleifend libero. Class.' }
-            ]"
+              { name: 'Ostermann Malte', text: 'Alter: 15 Jahre, Sitzplatz: 2, Geschlecht: Männlich.' },
+              { name: 'Satzinger Niklas', text: '  Alter: 16 Jahre, Sitzplatz: 1, Geschlech: Männlich.' },
+              { name: 'Yanik Kendler', text: '  Alter: 16 Jahre, Sitzplatz: 15, Geschlech: Männlich.' },
+              { name: 'Michael Leisch', text: '  Alter: 17 Jahre, Sitzplatz: 16, Geschlech: Männlich.' },
+              { name: 'Micheal Rueb', text: '  Alter: 16 Jahre, Sitzplatz: 13, Geschlech: Männlich.' }
+              ]"
           />
         </v-tab-item>
         <v-tab-item>
-          <About/>
+          <About         
+          />
         </v-tab-item>
       </v-tabs-items>
     </v-main>

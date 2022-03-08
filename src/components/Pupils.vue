@@ -4,9 +4,11 @@
       Pupils
     </h2>
     <div class="">
-      <v-card class="ma-2" v-for="(pupil, i) in pupils" :key="i">
+      <v-card class="pa-0 ma-2" v-for="(pupil, i) in pupils" :key="i">
         <v-card-title>{{pupil.name}}</v-card-title>
-        <v-card-text>{{pupil.text}}</v-card-text>
+        <v-card-text class="pa-0 ml-2">{{pupil.text}}</v-card-text>
+        <v-card-text class="pa-0 ml-2">{{pupil.birthDay}}</v-card-text>
+        <v-card-text class="pa-0 ml-2">{{pupil.seat}}</v-card-text>
       </v-card>
     </div>
   </v-container>

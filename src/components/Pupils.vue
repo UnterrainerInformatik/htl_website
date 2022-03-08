@@ -3,7 +3,7 @@
     <h2>
       Pupils
     </h2>
-    <div class="fluent d-flex">
+    <div class="">
       <v-card class="ma-2" v-for="(pupil, i) in pupils" :key="i">
         <v-card-title>{{pupil.name}}</v-card-title>
         <v-card-text>{{pupil.text}}</v-card-text>

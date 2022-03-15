@@ -56,7 +56,8 @@
           <Pupils
             :pupils="[
               { name: 'Ostermann Malte', text: 'Lorem Ipsum', birthDay: 'xx.xx.xxxx', seat: 'x'},
-              { name: 'Satzinger Niklas', text: 'Lorem Ipsum', birthDay: 'xx.xx.xxxx', seat: 'x'}
+              { name: 'Satzinger Niklas', text: 'Lorem Ipsum', birthDay: 'xx.xx.xxxx', seat: 'x'},
+              { name: 'Wolfslehner Mattias', text: 'Ich weiß, dass ich nichts weiß ~Sokrates', birthDay: '22.04.2006', seat: '18'}
             ]"
           />
         </v-tab-item>

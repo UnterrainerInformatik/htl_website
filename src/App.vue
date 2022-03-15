@@ -55,8 +55,9 @@
         <v-tab-item>
           <Pupils
             :pupils="[
-              { name: 'Ostermann Malte', text: 'Lorem Ipsum', birthDay: 'xx.xx.xxxx', seat: 'x'},
-              { name: 'Satzinger Niklas', text: 'Lorem Ipsum', birthDay: 'xx.xx.xxxx', seat: 'x'}
+              { name: 'Ostermann Malte', text: 'Geschlecht: Männlich... Möglicherweise', birthDay: 'Geburtsdatum: 17.12.2006', seat: 'Seat: 1'},
+              { name: 'Satzinger Niklas', text: 'Geschlecht: Männlich', birthDay: 'Geburtsdatum: 14.05.2005', seat: 'Seat: 2'},
+              { name: 'Manuel Berger', text: 'Geschlecht: Männlich', birthDay: 'Geburtdatum: 14.06.2005', seat: 'Seat: 3'}
             ]"
           />
         </v-tab-item>
